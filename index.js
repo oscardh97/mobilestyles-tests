@@ -42,3 +42,6 @@ printSeparatorLine();
 console.log("---------------Exercise 6--------------------------");
 exercise6([12, 55, 24, 27, 13, 24, 1400], [24, 24, 13, 233, 102]);
 printSeparatorLine();
+
+console.log("---------------Exercise 7--------------------------");
+console.log("The runtime is O(n^2)")
